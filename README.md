@@ -159,7 +159,7 @@ A trust infrastructure platform for training providers to issue gold sealed, ins
 <td colspan="2" align="center">
 
 ### 🏃 [WakaHustle](https://wakahustle.online)
-A Bolt or Uber style errand marketplace connecting Nigerian homes, individuals and offices with young, verified runners, matched by location and priority tier. Live at wakahustle.online.
+An errand marketplace connecting Nigerian homes, individuals and offices with young, verified runners, matched by location and priority tier. Live at wakahustle.online.
 
 `Next.js` `Kotlin` `Marketplace`
 
